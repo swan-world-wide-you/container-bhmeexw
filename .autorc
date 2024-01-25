@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "swan-world-wide-you",
+  "repo": "container-bhmeexw",
+  "name": "swan-world-wide-you",
+  "email": "swanworldwideyou@gmail.com",
+}
